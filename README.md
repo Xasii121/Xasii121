@@ -56,5 +56,5 @@ I started with electronics and Arduino, then moved into web development and embe
 ---
 
 <div align="center">
-  <sub>Learning in public · always building</sub>
+  <sub>always Learning · always building</sub>
 </div>
